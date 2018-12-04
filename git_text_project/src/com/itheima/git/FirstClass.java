@@ -7,6 +7,10 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+    }
 
+    public void text(){
+        int i=10;
+        i+=10;
     }
 }
