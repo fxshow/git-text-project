@@ -1,0 +1,12 @@
+com\itheima\service\impl\IOrdersServiceImpl.class
+com\itheima\service\IpermissionService.class
+com\itheima\service\IsyslogService.class
+com\itheima\service\IOrdersService.class
+com\itheima\service\impl\IpermissionServiceImpl.class
+com\itheima\service\impl\IroleServiceImpl.class
+com\itheima\service\impl\IuserServiceImpl.class
+com\itheima\service\IroleService.class
+com\itheima\service\IproductService.class
+com\itheima\service\impl\IsyslogServiceServiceImpl.class
+com\itheima\service\IuserService.class
+com\itheima\service\impl\IproductServiceImpl.class
